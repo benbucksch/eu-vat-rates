@@ -1,6 +1,7 @@
 {
     "last_updated": "2021-05-27T01:20Z",
     "disclaimer": "This data is compiled from official European Commission and other sources to be as accurate as possible, however no guarantee of accuracy is provided. Use at your own risk. Don't trust random people on the internet without doing your own research.",
+    "source": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
 
     "rates": {
         "AT": {
@@ -77,7 +78,7 @@
             "country": "Estonia",
             "vat_name": "Käibemaks",
             "vat_abbr": "KMKR",
-            "standard_rate": 20.00,
+            "standard_rate": 24.00,
             "reduced_rate": 9.00,
             "reduced_rate_alt": false,
             "super_reduced_rate": false,
@@ -107,7 +108,7 @@
             "country": "Finland",
             "vat_name": "Arvonlisävero",
             "vat_abbr": "ALV",
-            "standard_rate": 24.00,
+            "standard_rate": 25.50,
             "reduced_rate": 14.00,
             "reduced_rate_alt": 10.00,
             "super_reduced_rate": false,
@@ -257,7 +258,7 @@
             "country": "Slovakia",
             "vat_name": "Dan z pridanej hodnoty",
             "vat_abbr": "DPH",
-            "standard_rate": 20.00,
+            "standard_rate": 23.00,
             "reduced_rate": 10.00,
             "reduced_rate_alt": false,
             "super_reduced_rate": false,
