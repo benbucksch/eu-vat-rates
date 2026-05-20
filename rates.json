@@ -1,5 +1,5 @@
 {
-    "last_updated": "2021-05-27T01:20Z",
+    "last_updated": "2026-05-20T00:00Z",
     "disclaimer": "This data is compiled from official European Commission and other sources to be as accurate as possible, however no guarantee of accuracy is provided. Use at your own risk. Don't trust random people on the internet without doing your own research.",
     "source": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
 
@@ -49,8 +49,8 @@
             "vat_name": "Dani z pridane hotnoty",
             "vat_abbr": "DPH",
             "standard_rate": 21.00,
-            "reduced_rate": 15.00,
-            "reduced_rate_alt": 10.00,
+            "reduced_rate": 12.00,
+            "reduced_rate_alt": false,
             "super_reduced_rate": false,
             "parking_rate": false
         },
@@ -79,8 +79,8 @@
             "vat_name": "Käibemaks",
             "vat_abbr": "KMKR",
             "standard_rate": 24.00,
-            "reduced_rate": 9.00,
-            "reduced_rate_alt": false,
+            "reduced_rate": 13.00,
+            "reduced_rate_alt": 9.00,
             "super_reduced_rate": false,
             "parking_rate": false
         },
@@ -159,7 +159,7 @@
             "vat_name": "Pridetines vertes mokestis",
             "vat_abbr": "PVM",
             "standard_rate": 21.00,
-            "reduced_rate": 9.00,
+            "reduced_rate": 12.00,
             "reduced_rate_alt": 5.00,
             "super_reduced_rate": false,
             "parking_rate": false
@@ -238,9 +238,9 @@
             "country": "Romania",
             "vat_name": "Taxa pe valoarea adãugata",
             "vat_abbr": "TVA",
-            "standard_rate": 19.00,
-            "reduced_rate": 9.00,
-            "reduced_rate_alt": 5.00,
+            "standard_rate": 21.00,
+            "reduced_rate": 11.00,
+            "reduced_rate_alt": false,
             "super_reduced_rate": false,
             "parking_rate": false
         },
@@ -259,8 +259,8 @@
             "vat_name": "Dan z pridanej hodnoty",
             "vat_abbr": "DPH",
             "standard_rate": 23.00,
-            "reduced_rate": 10.00,
-            "reduced_rate_alt": false,
+            "reduced_rate": 19.00,
+            "reduced_rate_alt": 5.00,
             "super_reduced_rate": false,
             "parking_rate": false
         },
