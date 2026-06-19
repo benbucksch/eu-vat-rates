@@ -20,5 +20,6 @@
   "bugs": {
     "url": "github.com/benbucksch/eu-vat-rates/issues"
   },
+  "types": "rates.d.ts",
   "license": "MIT"
 }
